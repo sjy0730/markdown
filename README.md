@@ -9,3 +9,5 @@
 [구글] (https://www.google.com)
 
 <img src="https://github.com/LucasDev86/bdworld/blob/main/gui/bmi11.PNG" width="320"/>
+
+<img src="ori.jpeg"/>
